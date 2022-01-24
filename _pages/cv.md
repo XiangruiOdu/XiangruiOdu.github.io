@@ -20,7 +20,7 @@ Work experience
 * 2021: Research Assistant
   * Old Dominion University
  
-  * Supervisor: Professor Git
+  * Supervisor: Professor Hongyi Wu
 * 2021: lecturer
   * Qingdao Technical College
  
