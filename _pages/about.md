@@ -12,7 +12,7 @@ redirect_from:
 
 Bio
 ======
-I am currently a first-year PhD student major in computer science in Old Dominion University(Advisor: Prof. Hongyi Wu). Before that, I did my master in computer system engineering in University of Glasgow(2019) and bachlor of computer science in Guangxi University(2018). I come from Qingdao, China; a beautiful costal city. Love sports and gaming for leisure time.
+I am currently a first-year PhD student major in computer science in Old Dominion University(Advisor: Prof. Hongyi Wu and Dr. Rui Ning). Before that, I did my master in computer system engineering in University of Glasgow(2019) and bachlor of computer science in Guangxi University(2018). I come from Qingdao, China; a beautiful costal city. Love sports and gaming for leisure time.
 
 
 
